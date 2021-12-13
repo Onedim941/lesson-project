@@ -1,0 +1,23 @@
+{
+  "id": "2511688",
+  "name": "lesson",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "9920428",
+      "name": "返 回",
+      "font_class": "fanhui",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "14142207",
+      "name": "收 藏",
+      "font_class": "shoucang",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}
