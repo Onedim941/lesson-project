@@ -8,6 +8,7 @@
 </template>
 
 <script>
+// 修改测试
 import MainTabBar from 'components/content/MainTabBar'
 export default {
   data(){
