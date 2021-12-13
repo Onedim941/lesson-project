@@ -10,6 +10,7 @@
 <script>
 // 修改测试
 // git提交。。。
+// 888444
 import MainTabBar from 'components/content/MainTabBar'
 export default {
   data(){
