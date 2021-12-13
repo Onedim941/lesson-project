@@ -8,6 +8,8 @@
 </template>
 
 <script>
+// git提交。。。
+// 888444
 import MainTabBar from 'components/content/MainTabBar'
 // 141144
 export default {
